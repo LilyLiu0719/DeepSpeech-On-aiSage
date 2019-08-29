@@ -1,0 +1,13 @@
+MANIFEST.in
+impl.i
+setup.cfg
+setup.py
+./__init__.py
+./client.py
+./impl.py
+deepspeech.egg-info/PKG-INFO
+deepspeech.egg-info/SOURCES.txt
+deepspeech.egg-info/dependency_links.txt
+deepspeech.egg-info/entry_points.txt
+deepspeech.egg-info/requires.txt
+deepspeech.egg-info/top_level.txt
